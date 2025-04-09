@@ -53,6 +53,6 @@ You can adjust the following constant in the script:
 - Requires sufficient lighting for accurate detection.
 - Sound alerts use the winsound library, which is Windows-specific.
 
-##License
+## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
 
