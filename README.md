@@ -24,7 +24,7 @@ This project uses computer vision to monitor a driver's face and detect signs of
 2. Navigate to the project directory:
 
    ```bash
-   cd <repository_directory>
+   cd drowsy_analysis
 3. Install dependencies:
 
    ```bash
