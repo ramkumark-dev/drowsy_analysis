@@ -20,7 +20,7 @@ This project uses computer vision to monitor a driver's face and detect signs of
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/ramkumark-dev/drowsy_analysis/edit/main>
+   git clone "https://github.com/ramkumark-dev/drowsy_analysis/edit/main"
 2. Navigate to the project directory:
 
    ```bash
