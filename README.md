@@ -30,7 +30,7 @@ This project uses computer vision to monitor a driver's face and detect signs of
    ```bash
    pip install opencv-python
 
-##Usage
+## Usage
 To start the system:
 
 1. Ensure your webcam is functional and properly connected.
@@ -43,12 +43,12 @@ To start the system:
 
 4. Press q on your keyboard to exit the program.
 
-##Configuration
+## Configuration
 You can adjust the following constant in the script:
 
 - FRAME_THRESHOLD: Number of consecutive frames with no detected eyes required to trigger the alarm. Increase this value for less sensitivity.
 
-##Limitations
+## Limitations
 - Designed for single-driver detection; may not function optimally for multiple faces.
 - Requires sufficient lighting for accurate detection.
 - Sound alerts use the winsound library, which is Windows-specific.
